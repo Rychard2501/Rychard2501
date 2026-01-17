@@ -1,4 +1,4 @@
-Olá!Bem vindo  meu mundo 👋
+Welcome to my world.👋
 
 <h1 align="center">Rychard Alves</h1>
 
