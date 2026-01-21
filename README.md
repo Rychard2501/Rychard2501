@@ -44,3 +44,4 @@ Welcome to my professional space.👋
 ###
 
 <h3
+[![Anurag's my skills status](https://github-readme-stats.vercel.app/api?username=Rychard2501)](https://github.com/anuraghazra/github-readme-stats)
